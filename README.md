@@ -18,7 +18,7 @@ Project based on [Cypress example docker compose](https://github.com/cypress-io/
 1. build the containers with `npm run build`
 2. start the web application and run Cypress tests with `npm run up`
 
-### Autochecking en ubuntu
+### Autochecking in ubuntu
 
 1. Open a terminal.
 2. Write the next command.
